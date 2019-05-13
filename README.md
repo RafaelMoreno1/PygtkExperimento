@@ -1,2 +1,2 @@
 # PygtkExperimento
-Una aplicación pyGTK echa por tres persona con fines eduativos 
+Una aplicación pyGTK hecha por tres persona con fines eduativos 
